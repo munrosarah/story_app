@@ -1,0 +1,1 @@
+This is an open source storyboarding application written in Ruby on Rails
